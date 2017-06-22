@@ -10,3 +10,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+.vs/S05_Testing/v15/Solution.VC.db-shm
+.vs/S05_Testing/v15/Solution.VC.db-wal
+.vs/S05_Testing/v15/ipch/AutoPCH/S05_TESTING-748c15d4/S05_TESTING-72a262c/S05_TESTING.ipch
